@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+// Desirable changes to be made in code, see the comments
 public class AddressBookMain {
 
     static List<AddressBookMain> addressList = new ArrayList();
